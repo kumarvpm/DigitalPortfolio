@@ -1,0 +1,51 @@
+@media screen {max-width: 1069;
+
+}
+body{background-image: url(healthy.JPG);
+background-repeat: no-repeat;
+background-size: 100%; }
+.box
+{
+    width: 900px;
+
+
+}
+.box ul li
+{
+    float:left;
+    width: 120px;
+    margin:  10px auto;
+    text-align: center;
+    
+}
+.box ul li a 
+{
+    text-decoration: none;
+    color: rgb(17, 3, 3);
+}
+.box ul li:hover{ background-color: aqua;}
+.box ul li:hover{ color: darkblue66;}
+.nv
+{
+    float: left;
+    position: absolute;
+    margin: 100px;
+
+
+
+}
+.veg
+{
+    float:left ;
+    position:absolute;
+    margin: 100px;
+    margin-left: 500px;
+
+}
+/*@media screen (max-width:620;)
+{
+.box, .nv, .veg {width: 100%;}
+}/*
+    
+
+
